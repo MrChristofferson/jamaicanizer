@@ -2,7 +2,6 @@
 
 Arbitrarily assign background colors to html elements for quick project layouts.
 
-[![build status](https://secure.travis-ci.org/mrchristofferson/jamaicanizer.svg)](http://travis-ci.org/mrchristofferson/jamaicanizer)
 [![dependency status](https://david-dm.org/mrchristofferson/jamaicanizer.svg)](https://david-dm.org/mrchristofferson/jamaicanizer)
 
 ## Installation
